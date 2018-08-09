@@ -1,0 +1,28 @@
+  .titles{
+    text-align:left;
+  }
+  .btn-inline{
+    margin: 10px;
+    background-color: #fff;
+    border:1px solid #ddd;
+    outline: none;
+    cursor: pointer;
+  }
+  .btn-active{
+    background-color: #E26C93;
+    color: #fff;
+    border-color: #E26C93;
+  }
+  .delete{
+    background-color: #fff;
+    border:1px solid #ddd;
+    color:#333;
+    outline: none;
+    border-radius: 4px;
+    padding:2px 5px;
+    margin: 5px 0;
+    cursor: pointer;
+  }
+  .delete:hover{
+    background-color: #f5f5f5;
+  }
